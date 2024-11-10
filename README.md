@@ -25,7 +25,7 @@ The purpose of this project is to apply logistic regression to a medical dataset
   
  5.Evaluation: The model’s accuracy is tested on the test data.
 
- # # Dependencies:
+ #  Dependencies:
  
  To run the code, you'll need:
  
