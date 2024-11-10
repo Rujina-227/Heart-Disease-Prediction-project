@@ -5,10 +5,12 @@
 ## Project Details:
 
 **Objective: To predict the presence of heart disease based on a dataset containing various health-related metrics.
+
 **Model: Logistic Regression is used to perform classification.
 
 
 ##Purpose: 
+
 The purpose of this project is to apply logistic regression to a medical dataset, aiming to classify whether individuals are likely to have heart disease based on features such as blood pressure, cholesterol, and other health indicators.
 
 ##Usage Instructions:
@@ -24,6 +26,7 @@ The purpose of this project is to apply logistic regression to a medical dataset
  5.Evaluation: The model’s accuracy is tested on the test data.
 
  ##Dependencies:
+ 
  To run the code, you'll need:
  
  .Python 3.x
